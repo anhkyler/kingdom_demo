@@ -12,6 +12,7 @@ Preview locally: `python3 -m http.server` in this folder, then open http://local
 | Our Staff (added to the About us menu) | our-team.html | /our-team |
 | Our Services | our-services.html | /our-services |
 | Sisterhood Program | sisterhood-program.html | /services-6 |
+| Brother’s Keeper (new, not on original) | brothers-keeper.html | — |
 | Resources | resources.html | /services-4 |
 | Prayer Requests | prayer-requests.html | /copy-of-free-gifts |
 | Give-A-Ways | give-a-ways.html | /general-5 |
